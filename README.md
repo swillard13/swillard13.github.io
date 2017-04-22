@@ -1,2 +1,2 @@
-# swillard13.github.io
-DSO project temp
+# 1800eatcake
+Simple html website for DSO project.
